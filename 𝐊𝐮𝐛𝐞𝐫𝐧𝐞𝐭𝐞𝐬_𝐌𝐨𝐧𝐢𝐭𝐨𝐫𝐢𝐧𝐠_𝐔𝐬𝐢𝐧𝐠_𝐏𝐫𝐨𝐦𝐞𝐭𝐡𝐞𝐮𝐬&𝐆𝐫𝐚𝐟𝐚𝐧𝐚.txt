@@ -1,7 +1,7 @@
 Here are some interview questions related to Kubernetes monitoring using Prometheus and Grafana that are commonly asked in DevOps Engineer job interviews, along with their answers:
-
+<details>
 <summary>Prometheus:</summary>
-
+</details>
 1. What is Prometheus, and how does it contribute to Kubernetes monitoring?
 
 - Prometheus is an open-source monitoring and alerting toolkit. It plays a crucial role in Kubernetes monitoring by collecting metrics from various components, allowing you to query and visualize these metrics, and sending alerts based on predefined rules.
