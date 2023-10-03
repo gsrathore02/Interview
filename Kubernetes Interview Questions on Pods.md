@@ -8,16 +8,13 @@ Answer:  Kubernetes Pod is the smallest deployable unit in Kubernetes. It repres
 2. Can a Pod have multiple containers? Explain use cases for multi-container Pods.
    
 Answer: Yes, a Pod can have multiple containers. Multi-container Pods are useful in scenarios where these containers need to work closely together and share the same resources. Some common use cases include:
-```
-```
+
 Sidecar Containers: These provide additional functionality to the main application container, such as log collection, monitoring, or data synchronization.
-```
-```
+
 Adapter Containers: They can be used to adapt the main container to different environments, like translating logs to a specific format or handling security or authentication.
-```
-```
+
 Helper Containers: Containers that perform tasks like initialization or cleanup before or after the main application runs.
-```
+
 ```
 3. What is the main difference between a Pod and a container in Kubernetes?
 
