@@ -1,5 +1,4 @@
 ## `**** Kubernetes Interview Questions on CustomResources ****`
-<br />
 ```
 1. What are Custom Resources in Kubernetes?
 
