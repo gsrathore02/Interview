@@ -9,12 +9,11 @@ Answer: Custom Resources (CRs) are an extension mechanism in Kubernetes that all
 
 Answer: Custom Resources are useful when you need to represent and manage application-specific resources that are not natively supported by Kubernetes. They enable you to define, create, and manage these resources using the Kubernetes API and tooling.
 ```
-
+```
 3. What is the difference between Custom Resources and Custom Resource Definitions (CRDs)?
 
 Answer: Custom Resources are instances of custom objects, while Custom Resource Definitions (CRDs) define the schema or structure for these custom objects. CRDs specify the kind of custom resources that can be created and their validation rules.
-
-<br />
+```
 
 4. How do you create a Custom Resource in Kubernetes?
 
