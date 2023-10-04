@@ -14,11 +14,11 @@ Answer: Custom Resources are useful when you need to represent and manage applic
 
 Answer: Custom Resources are instances of custom objects, while Custom Resource Definitions (CRDs) define the schema or structure for these custom objects. CRDs specify the kind of custom resources that can be created and their validation rules.
 ```
-
+```
 4. How do you create a Custom Resource in Kubernetes?
 
 Answer: To create a Custom Resource, you first need to define a Custom Resource Definition (CRD) that specifies the resource's schema. Once the CRD is created, you can create instances of the custom resource by applying YAML manifests that conform to the CRD's schema.
-
+```
 <br />
 
 5. Explain the structure of a Custom Resource Definition (CRD).
