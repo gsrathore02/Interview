@@ -1,10 +1,10 @@
 ## `**** Kubernetes Interview Questions on CustomResources ****`
 <br />
-
+```
 1. What are Custom Resources in Kubernetes?
 
 Answer: Custom Resources (CRs) are an extension mechanism in Kubernetes that allows you to define and use custom objects in addition to the built-in resources like Pods, Services, and Deployments. They provide a way to extend the Kubernetes API to suit your application's specific needs.
-
+```
 <br />
 
 2. Why would you use Custom Resources in Kubernetes?
